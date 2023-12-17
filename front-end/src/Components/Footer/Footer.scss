@@ -1,0 +1,58 @@
+.footer-bg .list-style {
+   /* display: flex;
+   justify-content: center; */
+   list-style-type: disc;
+   padding-inline-start: 0;
+}
+
+.footer-bg .list-unstyled li a .fab {
+   color: #858A9F;
+}
+
+.footer-bg .list-style li a {
+   /* font-family: "sen";
+   color: #fff;
+   font-size: 16px;
+   transition: 1s all; */
+   color: rgba(255, 255, 255, 0.6);
+   font-size: 14px;
+   transition: 1s all;
+   font-weight: 400;
+}
+
+.footer-bg .list-style li a:hover {
+   color: #fac037;
+   text-decoration: none;
+}
+
+.footer-bg .list-style li {
+   padding: 10px 15px;
+   color: #fff;
+   list-style: none;
+   transition: 1s all;
+}
+
+.footer-bg .list-style li:hover {
+   color: #fac037;
+}
+
+.footer-bg .media-icon li a .fab:hover {
+   color: #fac037;
+}
+
+.footer-bg .media-icon li {
+   /* padding: 15px 20px;
+   background: #000000;
+   box-shadow: inset 0px 0px 18px rgb(85 83 84 / 60%);
+   border-radius: 11px;
+   width: 45px;
+   height: 45px;
+   line-height: 44px;
+   margin-left: 10px; */
+   padding: 10px 10px;
+}
+
+.posiiton-footer-logo {
+   position: relative;
+   top: -50px;
+}
